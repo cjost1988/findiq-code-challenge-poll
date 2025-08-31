@@ -57,6 +57,5 @@ See:
   * Question page is not showing an info, when no questions are available so far
   * Questions API accepts `limit=100` as max, but the FE is not providing a pagination, means if there are more than 100 answers, the user will not be able to see them all
   * Answer page is not showing an info, when no answers are available so far
-  * Answers are not reloaded after submitting an answer
-  * Submitting a second answer, does not reload the
+  * Answers are not reloaded after submitting a second answer on the same page
   * Answers API accepts `limit=100` as max, but the FE is not providing a pagination, means if there are more than 100 answers, the user will not be able to see them all
